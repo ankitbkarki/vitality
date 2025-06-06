@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "0aee30935a5f33d6b519215515428034"
+        "md5": "dbdf9dfd74f9d61afeb87b247c83ff1a"
     },
     {
         "path": "assets",
@@ -27,7 +27,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "0ddcb91f73f98dab9af1618c2d0ab61a"
+        "md5": "824dab1d11835c84d2e478cec95d378b"
     },
     {
         "path": "assets/dynamic",
@@ -95,24 +95,99 @@
         "md5": false
     },
     {
+        "path": "authors/leon-staff-team",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/leon-staff-team/index.html",
+        "type": "file",
+        "md5": "f30a8d9aee8bc9af9b1c18885b135f65"
+    },
+    {
         "path": "feed.json",
         "type": "file",
-        "md5": "978d6fa7c754511046fbba12eceeb2bc"
+        "md5": "e0f67b4a0b081a6b7cc92b94576abb78"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "b8bd272e266657612b7a227f1ae52ff9"
+        "md5": "8b4f85a10118a79bb6515984069d011b"
+    },
+    {
+        "path": "how-to-meditate-spiritually-for-beginners",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-meditate-spiritually-for-beginners/index.html",
+        "type": "file",
+        "md5": "a4195d61195d34b5845fe10db0772e23"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "e1c144c0b77475904eb46884f8aba0c4"
+        "md5": "3a672b4ac1c28249804dd5d23e62873f"
     },
     {
         "path": "media",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/41",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/41/How-to-Meditate-Spiritually-for-Beginners-A-Simple-Guide.png",
+        "type": "file",
+        "md5": "4f6c62b20336dab5c5032037e564952c"
+    },
+    {
+        "path": "media/posts/41/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/41/responsive/How-to-Meditate-Spiritually-for-Beginners-A-Simple-Guide-2xl.webp",
+        "type": "file",
+        "md5": "51890d457074e0d320c7e10c7cfd25e8"
+    },
+    {
+        "path": "/media/posts/41/responsive/How-to-Meditate-Spiritually-for-Beginners-A-Simple-Guide-lg.webp",
+        "type": "file",
+        "md5": "a4647341cd9eba4ba50b131b41687c93"
+    },
+    {
+        "path": "/media/posts/41/responsive/How-to-Meditate-Spiritually-for-Beginners-A-Simple-Guide-md.webp",
+        "type": "file",
+        "md5": "6080466163f0841f34cefe113d144786"
+    },
+    {
+        "path": "/media/posts/41/responsive/How-to-Meditate-Spiritually-for-Beginners-A-Simple-Guide-sm.webp",
+        "type": "file",
+        "md5": "f0df34a0309d2f8de1e29ab740f9ee8c"
+    },
+    {
+        "path": "/media/posts/41/responsive/How-to-Meditate-Spiritually-for-Beginners-A-Simple-Guide-sm2.webp",
+        "type": "file",
+        "md5": "6ab64fe4bc271a17a559d686fb74642a"
+    },
+    {
+        "path": "/media/posts/41/responsive/How-to-Meditate-Spiritually-for-Beginners-A-Simple-Guide-xl.webp",
+        "type": "file",
+        "md5": "f9aa7e1cc33589aadd66e3af128c65b1"
+    },
+    {
+        "path": "/media/posts/41/responsive/How-to-Meditate-Spiritually-for-Beginners-A-Simple-Guide-xs.webp",
+        "type": "file",
+        "md5": "64b61537f507ee1fc2590cefd49cebcb"
     },
     {
         "path": "media/website",
@@ -167,12 +242,12 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "6d59e203035d168c69c7cd637bb5bc28"
+        "md5": "fc58a5a16e06c610ec8ab5d1f9f23d75"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "af85dac151a69c3fbcf220ad05083cc5"
+        "md5": "fd67a27a252a1b8b3c593c7a4e5e1684"
     },
     {
         "path": "sitemap.xsl",
@@ -187,6 +262,16 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "da91ebd49370572eed29afb64db503b5"
+        "md5": "15d1c4e7e3088d7ba53b6c25403033b4"
+    },
+    {
+        "path": "tags/spiritual-meditation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/spiritual-meditation/index.html",
+        "type": "file",
+        "md5": "20c8d92d2fb6db1c9bef976205738c17"
     }
 ]

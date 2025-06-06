@@ -11,27 +11,35 @@
         <priority>1.0</priority>
     </url>
     
-    <!-- Blogs -->
+    <!-- Main Pages -->
+    
     <url>
-        <loc>https://ankit-karki.com.np/blogs/</loc>
+        <loc>https://ankit-karki.com.np/blog</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
-    <!-- About -->
+    <!-- Legal Pages -->
     <url>
-        <loc>https://ankit-karki.com.np/about</loc>
+        <loc>https://ankit-karki.com.np/terms.html</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
+        <priority>0.5</priority>
     </url>
     
-    <!-- Contact -->
     <url>
-        <loc>https://ankit-karki.com.np/contact</loc>
+        <loc>https://ankit-karki.com.np/privacy-policy.html</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
+        <priority>0.5</priority>
+    </url>
+    
+    <!-- Author Page -->
+    <url>
+        <loc>https://ankit-karki.com.np/author.html</loc>
+        <lastmod>2024-03-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
     </url>
 </urlset> 

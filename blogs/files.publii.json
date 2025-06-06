@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "5ddb6c4a5ff0a84dd314e49c8c623153"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "35b1150ce41cc9d2373259d65283a81c"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "0ddcb91f73f98dab9af1618c2d0ab61a"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts/cairo",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/cairo/cairo.woff2",
+        "type": "file",
+        "md5": "00ae476db8457e6a7c902fd10cca3954"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/isotope.pkgd.min.js",
+        "type": "file",
+        "md5": "2afcff647ed260006faa71c8e779e8d4"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "205a26ca43047cbd1ba74b323f38a913"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "4268bfae06e330d473c424d50f09abda"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "151e31ba62789782fcd457b5b884ba8a"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "2813b916db5705fbd8cc3024ce107375"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "978d6fa7c754511046fbba12eceeb2bc"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "b8bd272e266657612b7a227f1ae52ff9"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "58368c26ba67f5e38dd642e121db3314"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/apple-touch-icon.png",
+        "type": "file",
+        "md5": "babd30105930f00b25fadb72d7e05519"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/apple-touch-icon-2xl.webp",
+        "type": "file",
+        "md5": "b52164c61e70e013218da8a42dadce14"
+    },
+    {
+        "path": "/media/website/responsive/apple-touch-icon-lg.webp",
+        "type": "file",
+        "md5": "b52164c61e70e013218da8a42dadce14"
+    },
+    {
+        "path": "/media/website/responsive/apple-touch-icon-md.webp",
+        "type": "file",
+        "md5": "b52164c61e70e013218da8a42dadce14"
+    },
+    {
+        "path": "/media/website/responsive/apple-touch-icon-sm.webp",
+        "type": "file",
+        "md5": "b52164c61e70e013218da8a42dadce14"
+    },
+    {
+        "path": "/media/website/responsive/apple-touch-icon-xl.webp",
+        "type": "file",
+        "md5": "b52164c61e70e013218da8a42dadce14"
+    },
+    {
+        "path": "/media/website/responsive/apple-touch-icon-xs.webp",
+        "type": "file",
+        "md5": "b52164c61e70e013218da8a42dadce14"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "3fcb4644e56a656a95d680057c7d9c8e"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "bce6860aaa73efe0e3f0cf50b9961a57"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "af85dac151a69c3fbcf220ad05083cc5"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "9f311dcd9b10d72405a88654e2325b27"
+    }
+]

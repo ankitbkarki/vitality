@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ankit-karki.com.np/blogs/sitemap.xml

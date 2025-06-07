@@ -112,17 +112,42 @@
     {
         "path": "/authors/leon-staff-team/index.html",
         "type": "file",
-        "md5": "555e83c7ef247e00cc3f733b6a4bb3f6"
+        "md5": "4e5288944f9e456adf26392d0c131c50"
+    },
+    {
+        "path": "authors/leon-staff-team/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/leon-staff-team/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/leon-staff-team/page/2/index.html",
+        "type": "file",
+        "md5": "37786035f32d24bc89440fe585fc6973"
+    },
+    {
+        "path": "changing-seasons-impact-mental-health",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/changing-seasons-impact-mental-health/index.html",
+        "type": "file",
+        "md5": "1b1c395f6f6c565e3502c46b02d2991e"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "a5b4c1b69415ee606bfa517ca8a50834"
+        "md5": "c354ae8f742116c6219eef2e0809d111"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a1a4254aede96cd2a970a245b3fa9d13"
+        "md5": "cefd43cab76b2241d90bd3e827d1eb70"
     },
     {
         "path": "guided-meditation-for-anxiety-calm-place-script",
@@ -133,6 +158,16 @@
         "path": "/guided-meditation-for-anxiety-calm-place-script/index.html",
         "type": "file",
         "md5": "ab18218289c87d2411165308f7f4e3eb"
+    },
+    {
+        "path": "guided-meditation-script-guide",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/guided-meditation-script-guide/index.html",
+        "type": "file",
+        "md5": "319153182d9ccb05244728e5b4892ea4"
     },
     {
         "path": "how-to-meditate-spiritually-for-beginners",
@@ -147,7 +182,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "aeb49890ac52d56f0c5679612bca0e49"
+        "md5": "199051fad0953a7d5165e2efc0f757be"
     },
     {
         "path": "meal-prep-healthcare-pros",
@@ -615,6 +650,21 @@
         "md5": "b52164c61e70e013218da8a42dadce14"
     },
     {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "44bd42306d122885fe868cab6ae6b8c8"
+    },
+    {
         "path": "raw-vegan-meals-recipes-healthy-ideas",
         "type": "directory",
         "md5": false
@@ -622,7 +672,7 @@
     {
         "path": "/raw-vegan-meals-recipes-healthy-ideas/index.html",
         "type": "file",
-        "md5": "38fdb0391f3ef669e858d3a04dc3a9a5"
+        "md5": "518ab84c1e0bc2881f41d9ecfd7b3536"
     },
     {
         "path": "robots.txt",
@@ -637,7 +687,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "1da42044aaba75ff6e18d945c3029cc5"
+        "md5": "c4dbfabcd8f0da4dae94d47c473a6683"
     },
     {
         "path": "sitemap.xsl",
@@ -677,12 +727,22 @@
     {
         "path": "/tags/guided-meditation/index.html",
         "type": "file",
-        "md5": "d0241ee6be35963f602f4339f93feb7e"
+        "md5": "54969ed7e84dc16b54cdd934beb646b4"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "8db957c2056df3fabe59315ad6fc4792"
+        "md5": "69365258901877af9d3ac9c929c9710b"
+    },
+    {
+        "path": "tags/mental-health",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/mental-health/index.html",
+        "type": "file",
+        "md5": "62a433d8ec01f573115783e27263e5c7"
     },
     {
         "path": "tags/mindfulness",

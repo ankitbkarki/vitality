@@ -112,7 +112,7 @@
     {
         "path": "/authors/leon-staff-team/index.html",
         "type": "file",
-        "md5": "8bc48381d2ee7d627b6d00aae7d717f0"
+        "md5": "1bdaf8fe22d61eaea90bf74284845a52"
     },
     {
         "path": "authors/leon-staff-team/page",
@@ -127,7 +127,7 @@
     {
         "path": "/authors/leon-staff-team/page/2/index.html",
         "type": "file",
-        "md5": "813bad4878402bfb360d526c1b77f907"
+        "md5": "a06272ae11edddc4c3b41dfd10737b92"
     },
     {
         "path": "bible-verses-about-anxiety",
@@ -137,7 +137,7 @@
     {
         "path": "/bible-verses-about-anxiety/index.html",
         "type": "file",
-        "md5": "545791605e545b3e569c955ea96a3a11"
+        "md5": "ca9da1d76ded4485fbc5e406d159cb43"
     },
     {
         "path": "changing-seasons-impact-mental-health",
@@ -162,12 +162,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "58fd333b58713b3837e20bc5026da187"
+        "md5": "92041225bb494a4846dfdc8f82d27afe"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "4330969943524d1e5977508ad2267546"
+        "md5": "f4fbfad5cd4961b08bdf27fd7a0b0871"
     },
     {
         "path": "guided-meditation-for-anxiety-calm-place-script",
@@ -188,6 +188,16 @@
         "path": "/guided-meditation-script-guide/index.html",
         "type": "file",
         "md5": "4042d4a8a86e1cfb0ddb1c122341e900"
+    },
+    {
+        "path": "health-benefits-of-cumaseba",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/health-benefits-of-cumaseba/index.html",
+        "type": "file",
+        "md5": "c850cd9a78e7a7e5514c340eaf1e52ca"
     },
     {
         "path": "how-to-meditate-on-gods-word-deepening-your-spiritual-walk",
@@ -212,7 +222,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a56b0e6e39ad83733706fabb99d4eab7"
+        "md5": "f2e8cb756d6956cedf35af1fe4a5f3b4"
     },
     {
         "path": "meal-prep-healthcare-pros",
@@ -885,6 +895,56 @@
         "md5": "192b0cb4a12db009f53e0b21296bcef1"
     },
     {
+        "path": "media/posts/54",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/54/Health-Benefits-of-Cumaseba-Tree-Bark-for-Inflammation-Hormones-and-Immunity.png",
+        "type": "file",
+        "md5": "9356144436caa6ce1336675f81fcd31b"
+    },
+    {
+        "path": "media/posts/54/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/54/responsive/Health-Benefits-of-Cumaseba-Tree-Bark-for-Inflammation-Hormones-and-Immunity-2xl.webp",
+        "type": "file",
+        "md5": "c9688ac405e54a3ab0508715da8f2457"
+    },
+    {
+        "path": "/media/posts/54/responsive/Health-Benefits-of-Cumaseba-Tree-Bark-for-Inflammation-Hormones-and-Immunity-lg.webp",
+        "type": "file",
+        "md5": "c9688ac405e54a3ab0508715da8f2457"
+    },
+    {
+        "path": "/media/posts/54/responsive/Health-Benefits-of-Cumaseba-Tree-Bark-for-Inflammation-Hormones-and-Immunity-md.webp",
+        "type": "file",
+        "md5": "a42a39bd4b649fd206d3027c6e8ec330"
+    },
+    {
+        "path": "/media/posts/54/responsive/Health-Benefits-of-Cumaseba-Tree-Bark-for-Inflammation-Hormones-and-Immunity-sm.webp",
+        "type": "file",
+        "md5": "ff9e0a358dcb83e711a7c9383b21c9e3"
+    },
+    {
+        "path": "/media/posts/54/responsive/Health-Benefits-of-Cumaseba-Tree-Bark-for-Inflammation-Hormones-and-Immunity-sm2.webp",
+        "type": "file",
+        "md5": "fdff3f04c163b6e81ce7396b12fe4baf"
+    },
+    {
+        "path": "/media/posts/54/responsive/Health-Benefits-of-Cumaseba-Tree-Bark-for-Inflammation-Hormones-and-Immunity-xl.webp",
+        "type": "file",
+        "md5": "c9688ac405e54a3ab0508715da8f2457"
+    },
+    {
+        "path": "/media/posts/54/responsive/Health-Benefits-of-Cumaseba-Tree-Bark-for-Inflammation-Hormones-and-Immunity-xs.webp",
+        "type": "file",
+        "md5": "24a2f395594c6f90a33a05635181ecff"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -942,7 +1002,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "c070f61df588574277cdd331f38a8873"
+        "md5": "d1e5841247624d207560a8594829b0d4"
     },
     {
         "path": "raw-vegan-meals-recipes-healthy-ideas",
@@ -967,7 +1027,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "05d5988153b32f24759f9aa3b303ca4e"
+        "md5": "24a7c236dd72328b3b86b2198cba5f8b"
     },
     {
         "path": "sitemap.xsl",
@@ -1022,7 +1082,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "4a39ca1e04e819742c1d1cdc77fc4405"
+        "md5": "bde85b92fcec64abe0000a7b2874c77a"
     },
     {
         "path": "tags/mental-health",
@@ -1043,6 +1103,16 @@
         "path": "/tags/mindfulness/index.html",
         "type": "file",
         "md5": "368cc4bb0d0672b75bc6bb9594279030"
+    },
+    {
+        "path": "tags/natural-remedies",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/natural-remedies/index.html",
+        "type": "file",
+        "md5": "d31a51fab6a9ec8a72b9486720b29d93"
     },
     {
         "path": "tags/nutrition",

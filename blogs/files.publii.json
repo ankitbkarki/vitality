@@ -7,12 +7,12 @@
     {
         "path": "/4-mindfulness-exercises-stress-anxiety/index.html",
         "type": "file",
-        "md5": "f061690fc79e6cc1d202756e84ab3fc4"
+        "md5": "916432c2cc400c731e17faf92e857d8d"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "34617d0f8b6cbb9e0a9c413012c15f08"
+        "md5": "19636cf4f5e1163dc6e8c94a6e7aaeae"
     },
     {
         "path": "assets",
@@ -37,32 +37,12 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "dffe78a877f0b011cadc387776dbe834"
+        "md5": "1b9295c46222089bd2c6c72de7f6cfba"
     },
     {
         "path": "assets/dynamic",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "assets/dynamic/fonts",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "assets/dynamic/fonts/publicsans",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/publicsans/publicsans-italic.woff2",
-        "type": "file",
-        "md5": "ff6677d277c18333083616765ece3e4f"
-    },
-    {
-        "path": "/assets/dynamic/fonts/publicsans/publicsans.woff2",
-        "type": "file",
-        "md5": "ce5051af671530872721c0304dcc062e"
     },
     {
         "path": "assets/js",
@@ -117,7 +97,7 @@
     {
         "path": "/authors/leon-staff-team/index.html",
         "type": "file",
-        "md5": "f0d596badfd2e5f632cfeea112b6e1d7"
+        "md5": "2c82ffaa9641a72afd05a9ee391775f7"
     },
     {
         "path": "authors/leon-staff-team/page",
@@ -132,7 +112,7 @@
     {
         "path": "/authors/leon-staff-team/page/2/index.html",
         "type": "file",
-        "md5": "a79662ad738b8f4447f62546050d9840"
+        "md5": "e009aecbd43702fc71daa89d3399d8ff"
     },
     {
         "path": "bible-verses-about-anxiety",
@@ -142,7 +122,7 @@
     {
         "path": "/bible-verses-about-anxiety/index.html",
         "type": "file",
-        "md5": "51d377c8f43430caa5be61351d6425cd"
+        "md5": "a8836a37279c60a138323aa48fe63a17"
     },
     {
         "path": "changing-seasons-impact-mental-health",
@@ -152,7 +132,7 @@
     {
         "path": "/changing-seasons-impact-mental-health/index.html",
         "type": "file",
-        "md5": "528b7db4bd7f44e512d94c0cd00353fc"
+        "md5": "320525dea3ed57ef768967e020f1a667"
     },
     {
         "path": "daily-journal-prompts-for-mental-health",
@@ -162,7 +142,7 @@
     {
         "path": "/daily-journal-prompts-for-mental-health/index.html",
         "type": "file",
-        "md5": "fa963fabd21cbe5e25d8762560044b10"
+        "md5": "54237e05dc6b68d8cf67b433cb5c3aaf"
     },
     {
         "path": "feed.json",
@@ -182,7 +162,7 @@
     {
         "path": "/guided-meditation-for-anxiety-calm-place-script/index.html",
         "type": "file",
-        "md5": "bb69c3fb7c3dcc2b471c6d1cfa3b7b71"
+        "md5": "68e0ba8257793c63e43d1fa82a06afac"
     },
     {
         "path": "guided-meditation-script-guide",
@@ -192,7 +172,7 @@
     {
         "path": "/guided-meditation-script-guide/index.html",
         "type": "file",
-        "md5": "8895455fa714e5187dd7691be1a030ed"
+        "md5": "eaa6ce541711786b70bd0f5496a572f6"
     },
     {
         "path": "health-benefits-of-cumaseba",
@@ -202,7 +182,7 @@
     {
         "path": "/health-benefits-of-cumaseba/index.html",
         "type": "file",
-        "md5": "71ee9fe02f7802bdd0558618b808d87d"
+        "md5": "0e3f4d3c562720dac1f7509397b50c1c"
     },
     {
         "path": "how-to-meditate-on-gods-word-deepening-your-spiritual-walk",
@@ -212,7 +192,7 @@
     {
         "path": "/how-to-meditate-on-gods-word-deepening-your-spiritual-walk/index.html",
         "type": "file",
-        "md5": "e662461404f3551f057068ad698e7f39"
+        "md5": "9135242a1a83d56cb50c52deda3c67f6"
     },
     {
         "path": "how-to-meditate-spiritually-for-beginners",
@@ -222,12 +202,12 @@
     {
         "path": "/how-to-meditate-spiritually-for-beginners/index.html",
         "type": "file",
-        "md5": "f5b9b49771567289793dc6f226c5074c"
+        "md5": "a8f7673403f62d377ccba45b061ebd10"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "5ff362dac2f1b89e393cef26e5cd8c5f"
+        "md5": "cb84ce943c377bf72cf09c787aa92ceb"
     },
     {
         "path": "meal-prep-healthcare-pros",
@@ -237,7 +217,7 @@
     {
         "path": "/meal-prep-healthcare-pros/index.html",
         "type": "file",
-        "md5": "20a667cb2c4648e7460b0aef935b7635"
+        "md5": "7c4be08a0da1d5c85717d77c795b972c"
     },
     {
         "path": "media",
@@ -1007,7 +987,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "e25814860f280f648adbc7af0d6548f4"
+        "md5": "642ca07e07a5a8cc22950c7ed2a5dd0a"
     },
     {
         "path": "raw-vegan-meals-recipes-healthy-ideas",
@@ -1017,7 +997,7 @@
     {
         "path": "/raw-vegan-meals-recipes-healthy-ideas/index.html",
         "type": "file",
-        "md5": "7e82cdba75fc082ebdf79888b607e2dd"
+        "md5": "84a45980bf7516a116f9bf47254dbe2a"
     },
     {
         "path": "robots.txt",
@@ -1027,7 +1007,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "6a1b89b27502bb4b5a20654b5477ccf5"
+        "md5": "cad9918b9c1c10b20c1a4a888e6c7895"
     },
     {
         "path": "sitemap.xml",
@@ -1047,7 +1027,7 @@
     {
         "path": "/spiritual-meditation-benefits/index.html",
         "type": "file",
-        "md5": "b3a3c7a914c71c4eefecf1133d24420d"
+        "md5": "2e039b6a064a959d617203242ce3546b"
     },
     {
         "path": "spiritual-meditation-for-sleep",
@@ -1057,7 +1037,7 @@
     {
         "path": "/spiritual-meditation-for-sleep/index.html",
         "type": "file",
-        "md5": "2dd2f3841fcb82e69e110be5541688c3"
+        "md5": "557708be756802d513113c4b9785da3e"
     },
     {
         "path": "tags",
@@ -1072,7 +1052,7 @@
     {
         "path": "/tags/anxiety/index.html",
         "type": "file",
-        "md5": "b3802dc36a3ccde68b25b14ad214de3c"
+        "md5": "7b9451c70f71d248f1b76f6211fea805"
     },
     {
         "path": "tags/guided-meditation",
@@ -1082,12 +1062,12 @@
     {
         "path": "/tags/guided-meditation/index.html",
         "type": "file",
-        "md5": "1e6d2968dcd8ce0ec3c3c6a9b8933609"
+        "md5": "856e1e26c431c632943fff0a0725057d"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "6d2dad0e765a74c064685685e8135db2"
+        "md5": "110c818ccc6f0af91545053f8b86e3f6"
     },
     {
         "path": "tags/mental-health",
@@ -1097,7 +1077,7 @@
     {
         "path": "/tags/mental-health/index.html",
         "type": "file",
-        "md5": "4020efdb9abb4499b79c2d6bb4b9379e"
+        "md5": "c7de4b6e34e6e80b36c02bd8a0118ac8"
     },
     {
         "path": "tags/mindfulness",
@@ -1107,7 +1087,7 @@
     {
         "path": "/tags/mindfulness/index.html",
         "type": "file",
-        "md5": "e749d3f81d1f3435c82044cee15b228d"
+        "md5": "3e32d66fd814cb1aa041919734aa4430"
     },
     {
         "path": "tags/natural-remedies",
@@ -1117,7 +1097,7 @@
     {
         "path": "/tags/natural-remedies/index.html",
         "type": "file",
-        "md5": "7307543a5950efe76e4e0f393f9732c2"
+        "md5": "706caacaef813a982fe5ef4c1e8c848a"
     },
     {
         "path": "tags/nutrition",
@@ -1127,7 +1107,7 @@
     {
         "path": "/tags/nutrition/index.html",
         "type": "file",
-        "md5": "dcd8cb0f9f2e321ccde58238c94c95e1"
+        "md5": "9ffefd76ed4aca7e88464de4f708a933"
     },
     {
         "path": "tags/spiritual-meditation",
@@ -1137,7 +1117,7 @@
     {
         "path": "/tags/spiritual-meditation/index.html",
         "type": "file",
-        "md5": "5af7f17d4a5f7a70791d36ff75c22cbf"
+        "md5": "46dfa303635fdb5822a59116810fb4f9"
     },
     {
         "path": "vegan-meal-prep-recipes-high-protein",
@@ -1147,6 +1127,6 @@
     {
         "path": "/vegan-meal-prep-recipes-high-protein/index.html",
         "type": "file",
-        "md5": "e117655e8bb23834bd7ffe1846361c35"
+        "md5": "40ce711a3ccf4d0884b5456a2882186a"
     }
 ]

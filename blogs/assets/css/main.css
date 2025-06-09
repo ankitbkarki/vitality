@@ -621,6 +621,7 @@ textarea {
   color: var(--dark) !important;
   font-family: var(--logo-font);
   font-size: 1.4rem;
+  font-weight: bold;
   white-space: nowrap;
   text-align: left;
   justify-self: start;

@@ -76,6 +76,20 @@
         </nav>
     </header>
 
+    <!-- Mobile Menu (Hidden by default) -->
+    <div class="fixed inset-0 bg-white/95 z-40 hidden">
+        <div class="flex flex-col items-center justify-center h-full space-y-8">
+            <a href="index.html#home" class="text-xl text-gray-600 hover:text-primary transition-colors">Home</a>
+            <a href="index.html#programs" class="text-xl text-gray-600 hover:text-primary transition-colors">Programs</a>
+            <a href="index.html#about" class="text-xl text-gray-600 hover:text-primary transition-colors">About</a>
+            <a href="https://ankit-karki.com.np/blogs/" target="_blank" rel="noopener noreferrer" class="text-xl text-gray-600 hover:text-primary transition-colors">Blog</a>
+            <a href="index.html#contact" class="text-xl text-gray-600 hover:text-primary transition-colors">Contact</a>
+            <a href="index.html#contact" class="bg-primary text-white px-6 py-3 rounded-full hover:bg-primary/90 transition-colors">
+                Get Started
+            </a>
+        </div>
+    </div>
+
     <!-- Privacy Policy Content -->
     <section class="pt-32 pb-20">
         <div class="container mx-auto px-6 max-w-5xl">
@@ -191,5 +205,22 @@
             </div>
         </div>
     </footer>
+    <script>
+        // Mobile menu toggle
+        const mobileMenuButton = document.querySelector('button.md\\:hidden');
+        const mobileMenu = document.querySelector('.fixed.inset-0.bg-white\\/95');
+        
+        mobileMenuButton.addEventListener('click', () => {
+            mobileMenu.classList.toggle('hidden');
+        });
+
+        // Close mobile menu when clicking a link
+        const mobileMenuLinks = mobileMenu.querySelectorAll('a');
+        mobileMenuLinks.forEach(link => {
+            link.addEventListener('click', () => {
+                mobileMenu.classList.add('hidden');
+            });
+        });
+    </script>
 </body>
 </html> 

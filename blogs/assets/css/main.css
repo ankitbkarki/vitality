@@ -2172,3 +2172,121 @@ textarea {
   -webkit-transform: translate(-50%, 0);
           transform: translate(-50%, 0);
 }
+
+.feed__layout {
+   display: grid;
+   gap: calc(var(--baseline) * 6);
+   grid-template-columns: 1fr;
+   margin-top: calc(var(--baseline) * 6);
+}
+
+@media all and (min-width: 56.25em) {
+   .feed__layout {
+      grid-template-columns: 2fr 1fr;
+   }
+}
+
+.feed__main {
+   min-width: 0;
+}
+
+.sidebar {
+   background: var(--page-bg);
+   border: 1px solid var(--light);
+   border-radius: calc(var(--border-radius) * 4);
+   padding: calc(var(--baseline) * 4);
+   margin-top: calc(var(--baseline) * 18);
+}
+
+@media all and (max-width: 56.24em) {
+   .sidebar {
+      margin-top: calc(var(--baseline) * 6);
+   }
+}
+
+.sidebar__section {
+   margin-bottom: calc(var(--baseline) * 6);
+}
+
+.sidebar__section:last-child {
+   margin-bottom: 0;
+}
+
+.sidebar__title {
+   color: var(--dark);
+   font-family: var(--menu-font);
+   font-size: 1.2rem;
+   font-variation-settings: "wght" var(--font-weight-bold);
+   margin: 0 0 calc(var(--baseline) * 3);
+}
+
+.sidebar__list {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+
+.sidebar__item {
+   margin-bottom: calc(var(--baseline) * 2);
+}
+
+.sidebar__item:last-child {
+   margin-bottom: 0;
+}
+
+.sidebar__link {
+   color: var(--dark);
+   display: block;
+   text-decoration: none;
+   transition: all 0.3s ease;
+   padding: calc(var(--baseline) * 1) 0;
+   position: relative;
+}
+
+.sidebar__link:hover {
+   color: var(--accent);
+   transform: translateX(5px);
+}
+
+.sidebar__post-title {
+   display: block;
+   font-family: var(--menu-font);
+   font-variation-settings: "wght" var(--font-weight-medium);
+   transition: all 0.3s ease;
+}
+
+.sidebar__category-name {
+   display: inline-block;
+   font-family: var(--menu-font);
+   font-variation-settings: "wght" var(--font-weight-medium);
+   transition: all 0.3s ease;
+}
+
+.sidebar__count {
+   color: var(--gray);
+   font-size: 0.9rem;
+   margin-left: 0.3rem;
+   transition: all 0.3s ease;
+}
+
+.sidebar__link:hover .sidebar__count {
+   color: var(--accent);
+}
+
+.feed__content p {
+   display: -webkit-box;
+   -webkit-line-clamp: 2;
+   -webkit-box-orient: vertical;
+   overflow: hidden;
+   margin: 0;
+   line-height: 1.5;
+}
+
+.feed__content p::after {
+   content: "...";
+   position: absolute;
+   bottom: 0;
+   right: 0;
+   padding-left: 40px;
+   background: linear-gradient(to right, transparent, var(--page-bg) 50%);
+}

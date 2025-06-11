@@ -7,12 +7,12 @@
     {
         "path": "/4-mindfulness-exercises-stress-anxiety/index.html",
         "type": "file",
-        "md5": "adcda00815c680777f0dc0bfd952b23f"
+        "md5": "de9025845185c18b5e01f0d84099f0e7"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "312a6dc98f97b403c5a71d0b8ccbfd61"
+        "md5": "7baf572946e201a7b4ba9045cb786c9b"
     },
     {
         "path": "7-day-meal-plan-pancreatitis-chronic-pancreatitis-diet-guide",
@@ -22,7 +22,7 @@
     {
         "path": "/7-day-meal-plan-pancreatitis-chronic-pancreatitis-diet-guide/index.html",
         "type": "file",
-        "md5": "941ab12fe8538a5dcb28932d81c564bd"
+        "md5": "9b73971b3c3b53bbc9018aba7b802b10"
     },
     {
         "path": "assets",
@@ -37,17 +37,17 @@
     {
         "path": "/assets/css/editor.css",
         "type": "file",
-        "md5": "ab1a2743577e8ff738ce7d0ca4b488f0"
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
     },
     {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "dce51e23e0d1b1273c2feda4e0b11570"
+        "md5": "92c671832a9e02419b9647ae0a482c25"
     },
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "8450c0ff8c4acf280f38d31f130606b0"
+        "md5": "7b86bf805c84cea57658efdc5e8f58dc"
     },
     {
         "path": "assets/dynamic",
@@ -62,12 +62,12 @@
     {
         "path": "/assets/js/scripts.js",
         "type": "file",
-        "md5": "cf6608e80a8ab966619b3fe23193f172"
+        "md5": "6163ec009b55946ce2430d1fe34cff4d"
     },
     {
         "path": "/assets/js/scripts.min.js",
         "type": "file",
-        "md5": "9c5ab7a87221183f149a42b3cceb7956"
+        "md5": "1b09dc64eb6086ddc9720890661ff038"
     },
     {
         "path": "/assets/js/svg-fix.js",
@@ -77,7 +77,7 @@
     {
         "path": "/assets/js/svg-map.js",
         "type": "file",
-        "md5": "ab8b0bd0bf06ea275e9529fd15a76765"
+        "md5": "e5e4ced5be7f2e5a37bf8605130fe0aa"
     },
     {
         "path": "assets/svg",
@@ -87,7 +87,7 @@
     {
         "path": "/assets/svg/svg-map.svg",
         "type": "file",
-        "md5": "9561258c027307c78952ab47359b1e2a"
+        "md5": "777b8dd8567e93fb9668f9c7cc194dfe"
     },
     {
         "path": "authors",
@@ -102,22 +102,7 @@
     {
         "path": "/authors/leon-staff-team/index.html",
         "type": "file",
-        "md5": "8045ff3dd625e46b4789ac031656f271"
-    },
-    {
-        "path": "authors/leon-staff-team/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "authors/leon-staff-team/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/leon-staff-team/page/2/index.html",
-        "type": "file",
-        "md5": "002d60cfeb834fa04c787794078dbdc3"
+        "md5": "72b6211195644a03bd410f9e15660bd3"
     },
     {
         "path": "changing-seasons-impact-mental-health",
@@ -127,7 +112,7 @@
     {
         "path": "/changing-seasons-impact-mental-health/index.html",
         "type": "file",
-        "md5": "09a495f3a15e0c098a0b81d4e375be0d"
+        "md5": "59c71ee0559f4ec4d7f298fef1f159d3"
     },
     {
         "path": "daily-journal-prompts-for-mental-health",
@@ -137,17 +122,17 @@
     {
         "path": "/daily-journal-prompts-for-mental-health/index.html",
         "type": "file",
-        "md5": "7f03bf1d62e23d54add53422d830114a"
+        "md5": "e43710e53a02812e45e4118ff8918c51"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "4d0d0719380d14b9f2ffe731343a9ec6"
+        "md5": "20cf74f7a8350437042ab14e8ebe338b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f80a5fd888ceca236a63d10642f20eea"
+        "md5": "be14e6ac9ffa326a6ab401f8c56b226e"
     },
     {
         "path": "guided-meditation-for-anxiety-calm-place-script",
@@ -157,7 +142,7 @@
     {
         "path": "/guided-meditation-for-anxiety-calm-place-script/index.html",
         "type": "file",
-        "md5": "ab794003fe08aadf1f85de3632af27fb"
+        "md5": "cab3e1fe4f805bde4a604940dc19c07d"
     },
     {
         "path": "guided-meditation-script-guide",
@@ -167,7 +152,7 @@
     {
         "path": "/guided-meditation-script-guide/index.html",
         "type": "file",
-        "md5": "d22e6ca106271956d79b30586beb9ebb"
+        "md5": "6907130f8dbe5ecb4721e65529301010"
     },
     {
         "path": "health-benefits-of-cumaseba",
@@ -177,7 +162,7 @@
     {
         "path": "/health-benefits-of-cumaseba/index.html",
         "type": "file",
-        "md5": "d8dd3756ec84d91884b5c737878e2e2d"
+        "md5": "b3511b80bb8387978f8acd509aa1b4b6"
     },
     {
         "path": "high-protein-vegan-meal-prep-25-easy-recipes-and-complete-guide-2025",
@@ -187,7 +172,7 @@
     {
         "path": "/high-protein-vegan-meal-prep-25-easy-recipes-and-complete-guide-2025/index.html",
         "type": "file",
-        "md5": "97f18ff30e13d8c5529e600c76733afd"
+        "md5": "7f5af3253f889b4c3d88f59030c19bc4"
     },
     {
         "path": "how-to-meditate-on-gods-word-deepening-your-spiritual-walk",
@@ -197,7 +182,7 @@
     {
         "path": "/how-to-meditate-on-gods-word-deepening-your-spiritual-walk/index.html",
         "type": "file",
-        "md5": "09d2363d7b418129e013cfe8dfedb94d"
+        "md5": "fc62fb391c412a2e78f5d2d6fffe5f19"
     },
     {
         "path": "how-to-meditate-spiritually-for-beginners",
@@ -207,12 +192,12 @@
     {
         "path": "/how-to-meditate-spiritually-for-beginners/index.html",
         "type": "file",
-        "md5": "c831fde72c92b261c66ffed0f2939c73"
+        "md5": "6af57e7d615dd395338e435b1cad1c10"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "20129c7a937aafad9b99e2a348ce749c"
+        "md5": "ba555307440ba76ff9911fe7317cb48f"
     },
     {
         "path": "meal-prep-healthcare-pros",
@@ -222,7 +207,7 @@
     {
         "path": "/meal-prep-healthcare-pros/index.html",
         "type": "file",
-        "md5": "587f98c9385c18cad3b6097d57dfb3f9"
+        "md5": "ac84df9f57416ebfa9f2c9121aac8e8b"
     },
     {
         "path": "media",
@@ -262,17 +247,12 @@
     {
         "path": "/media/posts/41/responsive/How-to-Meditate-Spiritually-for-Beginners-A-Simple-Guide-sm.webp",
         "type": "file",
-        "md5": "96c3dd6aaba598ff510772aabbcd554f"
-    },
-    {
-        "path": "/media/posts/41/responsive/How-to-Meditate-Spiritually-for-Beginners-A-Simple-Guide-xl.webp",
-        "type": "file",
-        "md5": "51890d457074e0d320c7e10c7cfd25e8"
+        "md5": "f0df34a0309d2f8de1e29ab740f9ee8c"
     },
     {
         "path": "/media/posts/41/responsive/How-to-Meditate-Spiritually-for-Beginners-A-Simple-Guide-xs.webp",
         "type": "file",
-        "md5": "af76fc2dcabb7f249d6e94be5101012b"
+        "md5": "64b61537f507ee1fc2590cefd49cebcb"
     },
     {
         "path": "media/posts/42",
@@ -297,17 +277,12 @@
     {
         "path": "/media/posts/42/responsive/Spiritual-Meditation-for-Sleep-Quiet-Your-Racing-Mind-sm.webp",
         "type": "file",
-        "md5": "c5ac023dfa19ff6adef940f59a66204c"
-    },
-    {
-        "path": "/media/posts/42/responsive/Spiritual-Meditation-for-Sleep-Quiet-Your-Racing-Mind-xl.webp",
-        "type": "file",
-        "md5": "ebf81794e223d0427ffe9599dd8e3860"
+        "md5": "89450b6e2b61517779b45a81962a6806"
     },
     {
         "path": "/media/posts/42/responsive/Spiritual-Meditation-for-Sleep-Quiet-Your-Racing-Mind-xs.webp",
         "type": "file",
-        "md5": "9be3bffaa1fe955baa084769680118bd"
+        "md5": "22d70e67b013f3fa0569ed752348c097"
     },
     {
         "path": "/media/posts/42/Spiritual-Meditation-for-Sleep-Quiet-Your-Racing-Mind.png",
@@ -337,17 +312,12 @@
     {
         "path": "/media/posts/43/responsive/Spiritual-Meditation-Benefits-for-Mind-and-Soul-sm.webp",
         "type": "file",
-        "md5": "f949ef11d2dc0b6f5bc9e4e2312530fa"
-    },
-    {
-        "path": "/media/posts/43/responsive/Spiritual-Meditation-Benefits-for-Mind-and-Soul-xl.webp",
-        "type": "file",
-        "md5": "6baa8dad3cdff5f7612f9a0ccc8082d8"
+        "md5": "bd86b6b449553c95ea7cfd64b7349d41"
     },
     {
         "path": "/media/posts/43/responsive/Spiritual-Meditation-Benefits-for-Mind-and-Soul-xs.webp",
         "type": "file",
-        "md5": "fc5cd9c1ef001ea7926a2e157f09fa09"
+        "md5": "93ce897901e9c5201e6c29665cb9a3af"
     },
     {
         "path": "/media/posts/43/Spiritual-Meditation-Benefits-for-Mind-and-Soul.png",
@@ -382,17 +352,12 @@
     {
         "path": "/media/posts/44/responsive/Guided-Meditation-for-Anxiety-Find-Your-Calm-Place-sm.webp",
         "type": "file",
-        "md5": "52cca70d0a06ca17116e91d82ead72a7"
-    },
-    {
-        "path": "/media/posts/44/responsive/Guided-Meditation-for-Anxiety-Find-Your-Calm-Place-xl.webp",
-        "type": "file",
-        "md5": "aee47d043228175fe5c4702bf12578d6"
+        "md5": "e8655c2e9509e371e7d5c05571ce196d"
     },
     {
         "path": "/media/posts/44/responsive/Guided-Meditation-for-Anxiety-Find-Your-Calm-Place-xs.webp",
         "type": "file",
-        "md5": "2bce562f1c0cce5aa6b212f72db9d907"
+        "md5": "801e1ab83f9f9622127091dd46dcf54a"
     },
     {
         "path": "media/posts/45",
@@ -422,17 +387,12 @@
     {
         "path": "/media/posts/45/responsive/Mindfulness-Exercises-That-Actually-Help-sm.webp",
         "type": "file",
-        "md5": "4addc09345b29e36662c4bd373818797"
-    },
-    {
-        "path": "/media/posts/45/responsive/Mindfulness-Exercises-That-Actually-Help-xl.webp",
-        "type": "file",
-        "md5": "350a6ea8dbebc83bf08770629c476897"
+        "md5": "05c1ec65827746517b6ffcd2455634e2"
     },
     {
         "path": "/media/posts/45/responsive/Mindfulness-Exercises-That-Actually-Help-xs.webp",
         "type": "file",
-        "md5": "e4888c3d93c281d502701a6cedd94e22"
+        "md5": "4238e1e3bd77b182bf13ccd1fdb4d452"
     },
     {
         "path": "media/posts/46",
@@ -457,17 +417,12 @@
     {
         "path": "/media/posts/46/responsive/Smart-Meal-Prep-Ideas-for-Healthcare-Professionals-sm.webp",
         "type": "file",
-        "md5": "5b5e3c02fcb08697822fe3fe3c40c100"
-    },
-    {
-        "path": "/media/posts/46/responsive/Smart-Meal-Prep-Ideas-for-Healthcare-Professionals-xl.webp",
-        "type": "file",
-        "md5": "7cdaf9340a20662148414fab240348ad"
+        "md5": "9bc8d6f7ce76208a0041493311ffad26"
     },
     {
         "path": "/media/posts/46/responsive/Smart-Meal-Prep-Ideas-for-Healthcare-Professionals-xs.webp",
         "type": "file",
-        "md5": "ec3806f65f56ff0cbf48bcdd4e1dfc93"
+        "md5": "8b8ccc4ecf81f97eaab420c83c089bbc"
     },
     {
         "path": "/media/posts/46/Smart-Meal-Prep-Ideas-for-Healthcare-Professionals.png",
@@ -502,17 +457,12 @@
     {
         "path": "/media/posts/47/responsive/Easy-Vegan-Meal-Prep-High-Protein-and-Delicious-Recipes-sm.webp",
         "type": "file",
-        "md5": "caec8128931051096300e8d0645f73e2"
-    },
-    {
-        "path": "/media/posts/47/responsive/Easy-Vegan-Meal-Prep-High-Protein-and-Delicious-Recipes-xl.webp",
-        "type": "file",
-        "md5": "ad724046987a93b2d9d377877017ed25"
+        "md5": "b9962cab58c96f68469e25c35ca96892"
     },
     {
         "path": "/media/posts/47/responsive/Easy-Vegan-Meal-Prep-High-Protein-and-Delicious-Recipes-xs.webp",
         "type": "file",
-        "md5": "9ae3a01832e2cf9b01cb92f82e747d18"
+        "md5": "1cb72ac4b85f58c99f7d6aef79037155"
     },
     {
         "path": "media/posts/48",
@@ -542,17 +492,12 @@
     {
         "path": "/media/posts/48/responsive/10-Delicious-Raw-Vegan-Meals-Easy-and-Healthy-Recipes-sm.webp",
         "type": "file",
-        "md5": "3583c5c4405df1cdb4991d4c5ce3c437"
-    },
-    {
-        "path": "/media/posts/48/responsive/10-Delicious-Raw-Vegan-Meals-Easy-and-Healthy-Recipes-xl.webp",
-        "type": "file",
-        "md5": "2721fb72c1d1040a0b7d1a21225bf19c"
+        "md5": "46d7cfc986359736c7ee7ebb5d1af8fa"
     },
     {
         "path": "/media/posts/48/responsive/10-Delicious-Raw-Vegan-Meals-Easy-and-Healthy-Recipes-xs.webp",
         "type": "file",
-        "md5": "f19af30b52efe4609a7fc945b821a3bf"
+        "md5": "b664557f720e2ba33d1adafe7e8094a6"
     },
     {
         "path": "media/posts/49",
@@ -582,17 +527,12 @@
     {
         "path": "/media/posts/49/responsive/How-Does-Changing-Seasons-Impact-Human-Mental-Health-Insights-and-Tips-sm.webp",
         "type": "file",
-        "md5": "4833ffcde475fabf697b28db3023f140"
-    },
-    {
-        "path": "/media/posts/49/responsive/How-Does-Changing-Seasons-Impact-Human-Mental-Health-Insights-and-Tips-xl.webp",
-        "type": "file",
-        "md5": "55b37dbdb4ec8b61a79621657e964861"
+        "md5": "ded68a823786175352e27660a7ada79c"
     },
     {
         "path": "/media/posts/49/responsive/How-Does-Changing-Seasons-Impact-Human-Mental-Health-Insights-and-Tips-xs.webp",
         "type": "file",
-        "md5": "1350345cc9256830c98bfc3aca8e4b80"
+        "md5": "6c4bfa908c59783bc4bda2cf64053b12"
     },
     {
         "path": "media/posts/50",
@@ -622,17 +562,12 @@
     {
         "path": "/media/posts/50/responsive/Guided-Meditation-Script-Crafting-Calm-Clarity-and-Connection-sm.webp",
         "type": "file",
-        "md5": "0abe337ddf57bd59dc4adcc9e6a1c4e4"
-    },
-    {
-        "path": "/media/posts/50/responsive/Guided-Meditation-Script-Crafting-Calm-Clarity-and-Connection-xl.webp",
-        "type": "file",
-        "md5": "798f8c4984eab77cb04e480b827ffc48"
+        "md5": "71088d1c1f3afd82589244565e4850ca"
     },
     {
         "path": "/media/posts/50/responsive/Guided-Meditation-Script-Crafting-Calm-Clarity-and-Connection-xs.webp",
         "type": "file",
-        "md5": "9e1a15aa7d3cd2c3a7e9cf5f1c0b4658"
+        "md5": "82fb6bbe7f20ff06ae2743e307201b78"
     },
     {
         "path": "media/posts/51",
@@ -662,17 +597,12 @@
     {
         "path": "/media/posts/51/responsive/How-to-Meditate-on-Gods-Word-Effectively-sm.webp",
         "type": "file",
-        "md5": "9f777e9a5018dc5e02994975f6123194"
-    },
-    {
-        "path": "/media/posts/51/responsive/How-to-Meditate-on-Gods-Word-Effectively-xl.webp",
-        "type": "file",
-        "md5": "c894d3bae2be4dd4521f37737db45d9f"
+        "md5": "3dd83bf9823c99ad516f152fbb0fd6e5"
     },
     {
         "path": "/media/posts/51/responsive/How-to-Meditate-on-Gods-Word-Effectively-xs.webp",
         "type": "file",
-        "md5": "694c37617af56e6b6905d0951ca73440"
+        "md5": "4ee7d3c2ac86b967af9d60c3d8df4504"
     },
     {
         "path": "media/posts/52",
@@ -702,17 +632,12 @@
     {
         "path": "/media/posts/52/responsive/Daily-Journal-Prompts-for-Mental-Health-Effective-Journaling-Prompts-sm.webp",
         "type": "file",
-        "md5": "fbe41a04e19f70341910e635298264d6"
-    },
-    {
-        "path": "/media/posts/52/responsive/Daily-Journal-Prompts-for-Mental-Health-Effective-Journaling-Prompts-xl.webp",
-        "type": "file",
-        "md5": "a180d65f4e647d824673643233b0ba94"
+        "md5": "5b3f3313ca9a85b78a466ded37ac7ad2"
     },
     {
         "path": "/media/posts/52/responsive/Daily-Journal-Prompts-for-Mental-Health-Effective-Journaling-Prompts-xs.webp",
         "type": "file",
-        "md5": "aa31d2e8386f3f3137597df214136c2e"
+        "md5": "b2792c0fc7631862a4edd425c8e92794"
     },
     {
         "path": "media/posts/54",
@@ -742,17 +667,12 @@
     {
         "path": "/media/posts/54/responsive/Health-Benefits-of-Cumaseba-Tree-Bark-for-Inflammation-Hormones-and-Immunity-sm.webp",
         "type": "file",
-        "md5": "58f6580788232fcbd83127a6f7aef841"
-    },
-    {
-        "path": "/media/posts/54/responsive/Health-Benefits-of-Cumaseba-Tree-Bark-for-Inflammation-Hormones-and-Immunity-xl.webp",
-        "type": "file",
-        "md5": "c9688ac405e54a3ab0508715da8f2457"
+        "md5": "ff9e0a358dcb83e711a7c9383b21c9e3"
     },
     {
         "path": "/media/posts/54/responsive/Health-Benefits-of-Cumaseba-Tree-Bark-for-Inflammation-Hormones-and-Immunity-xs.webp",
         "type": "file",
-        "md5": "fe54f9c29ffde3b9ae76f3f700f7a038"
+        "md5": "24a2f395594c6f90a33a05635181ecff"
     },
     {
         "path": "media/posts/55",
@@ -782,17 +702,12 @@
     {
         "path": "/media/posts/55/responsive/7-Day-Meal-Plan-for-Pancreatitis-Chronic-Pancreatitis-Diet-Guide-2025-sm.webp",
         "type": "file",
-        "md5": "2d1586ad2a6b1350bf84a5b8b4211bec"
-    },
-    {
-        "path": "/media/posts/55/responsive/7-Day-Meal-Plan-for-Pancreatitis-Chronic-Pancreatitis-Diet-Guide-2025-xl.webp",
-        "type": "file",
-        "md5": "a846526109e3a16d2e844bb09e1d8335"
+        "md5": "d610ec1a53ae2b7712dec0bd8bf986e3"
     },
     {
         "path": "/media/posts/55/responsive/7-Day-Meal-Plan-for-Pancreatitis-Chronic-Pancreatitis-Diet-Guide-2025-xs.webp",
         "type": "file",
-        "md5": "87fb9c13c153c675440d3740fe482017"
+        "md5": "b612af5cad520e9c7dbbb9b01e451f36"
     },
     {
         "path": "media/posts/56",
@@ -822,32 +737,12 @@
     {
         "path": "/media/posts/56/responsive/Master-high-protein-vegan-meal-prep-with-25-easy-recipes-sm.webp",
         "type": "file",
-        "md5": "7fb81885bcd914226dc12b77dae1ab4f"
-    },
-    {
-        "path": "/media/posts/56/responsive/Master-high-protein-vegan-meal-prep-with-25-easy-recipes-xl.webp",
-        "type": "file",
-        "md5": "7188a92eb75b44446cb1a49d206fed81"
+        "md5": "0960b776f5df24d5eec5b0cfc78d6566"
     },
     {
         "path": "/media/posts/56/responsive/Master-high-protein-vegan-meal-prep-with-25-easy-recipes-xs.webp",
         "type": "file",
-        "md5": "e06880cdf694a95d81d89faedab6abee"
-    },
-    {
-        "path": "page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/2/index.html",
-        "type": "file",
-        "md5": "50c6947b84d6fbe97e79fb30d515fa48"
+        "md5": "ec028ac0f957c6f4ec307c7dffdec3e4"
     },
     {
         "path": "raw-vegan-meals-recipes-healthy-ideas",
@@ -857,7 +752,7 @@
     {
         "path": "/raw-vegan-meals-recipes-healthy-ideas/index.html",
         "type": "file",
-        "md5": "27b5459f606dadebf5e198813e723276"
+        "md5": "937fb7c4a0866ab3561616c4da4af081"
     },
     {
         "path": "robots.txt",
@@ -867,12 +762,12 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "e7e82e07a2d54d0161fcda0f911a48fd"
+        "md5": "50126d910d21cde9f2d1e0f7005a6666"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "494ecb69296cf06000e53c94bb95a556"
+        "md5": "f1fde85b77fad52fe33472dbea460fd2"
     },
     {
         "path": "sitemap.xsl",
@@ -887,7 +782,7 @@
     {
         "path": "/spiritual-meditation-benefits/index.html",
         "type": "file",
-        "md5": "af8729c146d1ace5275771d97a564e07"
+        "md5": "709ed720450d1c32b8692705b9fa49be"
     },
     {
         "path": "spiritual-meditation-for-sleep",
@@ -897,7 +792,7 @@
     {
         "path": "/spiritual-meditation-for-sleep/index.html",
         "type": "file",
-        "md5": "02f1bbe6486458c7a036b81a9b32947b"
+        "md5": "dfa99f57232e77a0fa3c6772aeda7dcf"
     },
     {
         "path": "tags",
@@ -912,12 +807,12 @@
     {
         "path": "/tags/guided-meditation/index.html",
         "type": "file",
-        "md5": "20cf9fa40c7225adb969e8ec0117e670"
+        "md5": "2027e6aa9509f1fad21a1ecb3fce6da5"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "a7e1e4fbdd5e456f59a0ea8a5ba6b10f"
+        "md5": "f92c82bef075392f8ce8ebcbf8f62538"
     },
     {
         "path": "tags/mental-health",
@@ -927,7 +822,7 @@
     {
         "path": "/tags/mental-health/index.html",
         "type": "file",
-        "md5": "960a81daa5788d03886a96e8db443722"
+        "md5": "fe792b87ed35d762236a0779f2f4c8b0"
     },
     {
         "path": "tags/mindfulness",
@@ -937,7 +832,7 @@
     {
         "path": "/tags/mindfulness/index.html",
         "type": "file",
-        "md5": "29a98e829fc621eb3752fa55e7eeda58"
+        "md5": "923ae1a6521adefc8978458e14d7d31f"
     },
     {
         "path": "tags/natural-remedies",
@@ -947,7 +842,7 @@
     {
         "path": "/tags/natural-remedies/index.html",
         "type": "file",
-        "md5": "06eb24de5de64467ecb4099cbe0a8089"
+        "md5": "9007edb953ba6195a0854895283b81b9"
     },
     {
         "path": "tags/nutrition",
@@ -957,7 +852,7 @@
     {
         "path": "/tags/nutrition/index.html",
         "type": "file",
-        "md5": "1adaa9e1ebd2d8005991465535fba461"
+        "md5": "cfe8f536dd6861526386b4dab841b29b"
     },
     {
         "path": "tags/spiritual-meditation",
@@ -967,7 +862,7 @@
     {
         "path": "/tags/spiritual-meditation/index.html",
         "type": "file",
-        "md5": "12c52e00bb2a1aa1852b02e358a7b199"
+        "md5": "c9e9ea799592b72645d83ba55a536fd9"
     },
     {
         "path": "vegan-meal-prep-recipes-high-protein",
@@ -977,6 +872,6 @@
     {
         "path": "/vegan-meal-prep-recipes-high-protein/index.html",
         "type": "file",
-        "md5": "78673a614d8aa6e0995cb620ce1455cc"
+        "md5": "c406a713d9fdec355c39ced80ca9b4ef"
     }
 ]

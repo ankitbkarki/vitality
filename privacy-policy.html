@@ -205,6 +205,12 @@
             </div>
         </div>
     </footer>
+
+    <!-- Cookie Consent Banner -->
+    <div id="cookie-consent" class="fixed bottom-4 left-1/2 transform -translate-x-1/2 z-50 bg-white border border-gray-200 shadow-lg rounded-xl px-6 py-4 flex flex-col sm:flex-row items-center gap-4 max-w-lg w-[95%] sm:w-auto text-gray-700 hidden">
+        <span class="flex-1 text-sm">We use cookies to enhance your experience, analyze site usage, and show relevant ads. <a href="privacy-policy.html" class="underline text-primary hover:text-primary/80">Learn more</a>.</span>
+        <button id="accept-cookies" class="bg-primary text-white px-4 py-2 rounded-full hover:bg-primary/90 transition-colors text-sm font-semibold">Accept</button>
+    </div>
     <script>
         // Mobile menu toggle
         const mobileMenuButton = document.querySelector('button.md\\:hidden');
@@ -220,6 +226,20 @@
             link.addEventListener('click', () => {
                 mobileMenu.classList.add('hidden');
             });
+        });
+
+        // Cookie Consent Logic
+        document.addEventListener('DOMContentLoaded', function() {
+            var consent = localStorage.getItem('cookie_consent');
+            var banner = document.getElementById('cookie-consent');
+            var acceptBtn = document.getElementById('accept-cookies');
+            if (!consent && banner && acceptBtn) {
+                banner.classList.remove('hidden');
+                acceptBtn.addEventListener('click', function() {
+                    localStorage.setItem('cookie_consent', 'accepted');
+                    banner.classList.add('hidden');
+                });
+            }
         });
     </script>
 </body>
